@@ -3,9 +3,11 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-    "name": "Abhinav Gupta",
-    "email": "abhinav@abc.com",
+    "name": "Abhinav8 Bill",
+    "email": "abhinav87_bill@abc.com",
     "address": "gorakhpur",
     "dateOfBirth": "2005-05-05",
     "registeredDate": "2025-05-05"
 }
+
+###
